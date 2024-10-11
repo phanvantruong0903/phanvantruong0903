@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Văn Trường</h1>
+<h1 align="center">Hi there 👋, I'm Văn Trường</h1>
 <h3 align="center">A backend developer with a passion for building robust and efficient systems.</h3>
 
 - 🔭 I’m currently working on [Basic ReactJS Project](https://github.com/phanvantruong0903/fer-pe)
