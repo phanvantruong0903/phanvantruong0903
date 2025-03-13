@@ -1,21 +1,51 @@
 <h1 align="center">Hi there 👋, I'm Văn Trường</h1>
 <h3 align="center">A backend developer with a passion for building robust and efficient systems.</h3>
 
-- 🔯 I’m currently working on [Basic ReactJS Project](https://github.com/phanvantruong0903/fer-pe)
+🚀 **About Me**  
+- 💻 I'm a backend developer experienced in **Java, Node.js, and database systems** like MySQL and MongoDB.  
+- 🔥 Passionate about building **scalable and high-performance applications**.  
+- 📚 Currently exploring **Microservices with Spring Boot** and **GraphQL for API development**.  
 
-- 👯 I’m looking to collaborate on [Koi Farm Shop](https://github.com/15VuNguyen/KoiFarmShop)
+---
 
-- 🤝 I’m looking for help with **Pet Shop**
+### 🌟 **Projects I'm Working On**
+- 🔭 I’m currently working on [Basic ReactJS Project](https://github.com/phanvantruong0903/fer-pe)  
+- 👯 I’m looking to collaborate on [Koi Farm Shop](https://github.com/15VuNguyen/KoiFarmShop)  
+- 🤝 I’m looking for help with **Pet Shop**  
+- 🚀 I’m also working on [Claim Request Service](https://git.fa.edu.vn/hcm25_cpl_java_01/team_3/claim-request), a project focused on handling and managing claim requests efficiently.  
 
-- 🚀 I’m also working on [Claim Request Service](https://git.fa.edu.vn/hcm25_cpl_java_01/team_3/claim-request), a project focused on handling and managing claim requests efficiently.
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phanvantruong0903&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=phanvantruong0903&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phanvantruong0903&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📌 **Pinned Projects**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phanvantruong0903&repo=fer-pe&theme=tokyonight)](https://github.com/phanvantruong0903/fer-pe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=15VuNguyen&repo=KoiFarmShop&theme=tokyonight)](https://github.com/15VuNguyen/KoiFarmShop)
+
+---
+
+### 🤝 **Connect with me**
 <p align="left">
 <a href="https://linkedin.com/in/văn-trường-phan-73a362284" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://fb.com/truong.phan.0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🚀 **Languages and Tools**
 <p align="left"> 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> </a> 
