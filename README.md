@@ -39,7 +39,7 @@
 
 ### 📌 Featured Projects
 <p align="center">
-  <a href="https://github.com/phanvantruong0903/fer-pe">
+  <a href="https://github.com/15VuNguyen/skindora">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=phanvantruong0903&repo=fer-pe&theme=tokyonight" />
   </a>
   <a href="https://github.com/15VuNguyen/KoiFarmShop">
