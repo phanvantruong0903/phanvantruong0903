@@ -4,10 +4,11 @@
 ---
 
 ### 🚀 About Me
-- 💻 Backend developer with hands-on experience in **Java (Spring Boot)**, **Node.js (Express, NestJS)**  
-- 🛢️ Strong knowledge of relational & NoSQL databases (**MySQL, MongoDB**)  
+- 💻 Backend developer with hands-on experience in **Java (Spring Boot, Core Java)**, **Node.js (Express, NestJS, Microservices, gRPC)**  
+- 🛢️ Strong knowledge of relational & NoSQL databases (**MySQL, PostgreSQL, SQL Server, MongoDB**)  
+- ⚡ Experienced with **caching & messaging systems** like **Redis** and **Kafka**  
 - 🌱 Currently exploring **Microservices**, **GraphQL**, and **Cloud-native architectures**  
-- ⚡ Passionate about **system design**, **clean code**, and **high-performance applications**
+- ❤️ Passionate about **system design**, **clean code**, and **high-performance applications**
 
 ---
 
@@ -19,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
   <img src="https://nestjs.com/img/logo-small.svg" width="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-plain.svg" width="40" alt="gRPC" />
   
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
@@ -39,7 +41,9 @@
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL" />
 </p>
+
 
 
 ---
